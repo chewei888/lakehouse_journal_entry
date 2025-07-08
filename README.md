@@ -1,1 +1,1 @@
-# create_netsuite_journal_entry
+Vendor SFTP -> ADF -> ADLS -> Bronze -> NetSuite Journal Entry Creation
